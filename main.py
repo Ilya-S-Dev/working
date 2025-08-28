@@ -7,3 +7,5 @@ print("third")
 print("haaaaa")
 
 # Первый коммент в test
+
+# Второй коммент в test
